@@ -1,0 +1,4 @@
+org/example/rpc/Request.class
+org/example/rpc/ServiceDescriptor.class
+org/example/rpc/Response.class
+org/example/rpc/Peer.class
